@@ -1,0 +1,7 @@
+1. label column --> numerical, categorial, mixed
+2. Univariate Analysis --> single variable(column) Analysis
+3. Bivariate Analysis --> Two variable(column) Analysis
+4. Multivariate Analysis --> Multiple variable Analysis
+5. Feature Engineering --> Making some new variable(columns) or features
+6. or we can do Outliers detection, mising values etc, And iterate it 
+7. And then Conclusion
